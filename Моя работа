@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+            <head>
+                      <title>My blog</title>
+                      </head>
+                      <body>
+                                      <div class="post">
+                                                   <h1>First post!</h1>
+                                                   <p class="timestamp">17.01.2017, 20.37 PM</p>
+                                                   <p> This is the first post in my blog!</p>
+                                                  <form action="http://homogeneity.ru/">
+                                                  <p>Share your opinion about this shit</p>
+                                                  <textarea name="comments" cols='20' rows="4">Enter
+                                                  your opinion...</textarea>
+                                                  </form>
+                                           </div>
+                            <body>
+</html>
